@@ -20,7 +20,7 @@ Do not use this for securing any real or sensitive data.
 
 # Usage
 
-- git clone https://github.com/Parin727/Encrypter
+- git clone https://github.com/Parin070/Encrypter
 - cd Encrypter
 - chmod +x encrypter.sh
 - ./encrypter.sh
